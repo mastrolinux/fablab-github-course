@@ -1,2 +1,2 @@
 # fablab-github-course
-Dscription
+Description
